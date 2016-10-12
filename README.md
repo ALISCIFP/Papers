@@ -14,6 +14,7 @@
 
 [P][U] CP-mtML: Coupled Projection Multi-Task Metric Learning for Large Scale Face Retrieval http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Bhattarai_CP-mtML_Coupled_Projection_CVPR_2016_paper.pdf
 
+[P][U]Adaptive Visual Feedback Generation for Facial Expression Improvementwith Multi-task Deep Neural Networks http://delivery.acm.org/10.1145/2970000/2967236/p327-kaneko.pdf?ip=192.17.52.11&id=2967236&acc=OPENTOC&key=AAE16B9BF97F192F%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E921B4A8BE463EE8F&CFID=680381457&CFTOKEN=38259509&__acm__=1476234701_7fee7fa3fb04856fcd9e11282c1466aa
 #IOU
 [P][U] UnitBox: An Advanced Object Detection Network https://arxiv.org/pdf/1608.01471v1.pdf
 #Multi-Object detection
