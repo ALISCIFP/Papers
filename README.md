@@ -19,6 +19,8 @@
 Human Pose Estimation from Depth Images via Inference Embedded Multi-task Learning http://delivery.acm.org/10.1145/2970000/2964322/p1227-wang.pdf?ip=192.17.52.11&id=2964322&acc=OPENTOC&key=AAE16B9BF97F192F%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E921B4A8BE463EE8F&CFID=680381457&CFTOKEN=38259509&__acm__=1476234860_3a97c19077d08d57466694066ea0b486
 
 Deep Multi-task Learning with Label Correlation Constraint for Video Concept Detection http://delivery.acm.org/10.1145/2970000/2967271/p501-markatopoulou.pdf?ip=192.17.52.11&id=2967271&acc=OPENTOC&key=AAE16B9BF97F192F%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E921B4A8BE463EE8F&CFID=680381457&CFTOKEN=38259509&__acm__=1476234952_a2a6881370a4dc241ed16753c7e3619e
+
+Facial Landmark Detection by Deep Multi-task Learning  http://personal.ie.cuhk.edu.hk/~ccloy/files/eccv_2014_deepfacealign.pdf
 #IOU
 [P][U] UnitBox: An Advanced Object Detection Network https://arxiv.org/pdf/1608.01471v1.pdf
 #Multi-Object detection
