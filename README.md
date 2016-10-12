@@ -9,6 +9,9 @@
 
 #Multi-Object detection
 
+#HUANG
+[P][U] Understanding Convolutional Neural Networks with A Mathematical Model https://arxiv.org/abs/1609.04112
+
 
 
 
