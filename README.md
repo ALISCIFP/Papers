@@ -28,6 +28,9 @@ Facial Landmark Detection by Deep Multi-task Learning  http://personal.ie.cuhk.
 #HUANG
 [P][U] Understanding Convolutional Neural Networks with A Mathematical Model https://arxiv.org/abs/1609.04112
 
+#Double-ReLu
+STRIVING FOR SIMPLICITY:THE ALL CONVOLUTIONAL NET https://arxiv.org/pdf/1412.6806v3.pdf
+
 
 
 
